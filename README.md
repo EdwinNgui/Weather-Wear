@@ -22,3 +22,4 @@ Going into this hackathon, all of our team members had only had experience with 
 Our next step to improve the WeatherWear is to get the images through a browsing tool. We would use a separate tool in order to browse sites like Pinterest and gather a greater range of content. Theoretically, the user would be able to continuously refresh the page for their next piece of outfit inspiration.
 
 Developed by: Edwin Ngui, Davit Najaryan, Farhaan Ali
+1
