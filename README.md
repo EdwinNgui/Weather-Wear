@@ -28,4 +28,6 @@ Our next step to improve the WeatherWear is to get the images through a browsing
 
 Developed by: Edwin Ngui, Davit Najaryan, Farhaan Ali
 
+Completion status: Ongoing
+
 ![Screenshot of Product](icons/WeatherWearScreenshot.png)
