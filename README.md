@@ -19,4 +19,4 @@ As a team, we can proudly say that learning how to use an API for the first time
 Going into this hackathon, all of our team members had only had experience with the basics of  JavaScript, HTML, and CSS. As such, a majority of the code was learned whilst developing the application. Furthermore, we learned what APIs are and how to integrate them using JavaScript. 
 
 ## What's next for Working Weather App
-Our next step to improve the TBD_Name is to get the images through a browsing tool. We would use a separate tool in order to browse sites like Pinterest and gather a greater range of content. Theoretically, the user would be able to continuously refresh the page for their next piece of outfit inspiration.
+Our next step to improve the WeatherWear is to get the images through a browsing tool. We would use a separate tool in order to browse sites like Pinterest and gather a greater range of content. Theoretically, the user would be able to continuously refresh the page for their next piece of outfit inspiration.
