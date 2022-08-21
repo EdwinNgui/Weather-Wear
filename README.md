@@ -4,7 +4,7 @@
 Everyone is bound to run into the same problem: you can't decide what to wear! Plus, the weather is constantly changing, meaning you can never comfortably weather the same outfits all year round. Our team seeks to change that by creating an application that inspires people to look into new styles based on the local weather.
 
 ## What it does
-TBD_Name is a weather forecast application that helps the user to "Get Inspired!" on outfit ideas based on the current day's forecast.
+WeatherWear is a weather forecast application that helps the user to "Get Inspired!" on outfit ideas based on the current day's forecast.
 
 ## How we built it
 We used the OpenWeather API to collect data about current and future forecasts at the user’s location. When the user opens the application, they are prompted with a message asking for permission to use their location. Upon granting access, their longitude and latitude are used to pinpoint their location. The API then provides the program with the forcast data of their region in 3-hour intervals, for the next 5 days. From here, the weather temperature in Kelvin is converted into celsius (which can also be changed to Fahrenheit). Then, the is whether ID is given found in order to present a corresponding icon based on weather conditions (e.g. cloudy, snowing, rainy, etc.) Finally, the data is then analyzed to present to the user appropriate outfit ideas.
