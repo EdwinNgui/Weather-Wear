@@ -1,5 +1,8 @@
 # Working-Weather-App
 
+**Notice: OpenWeatherMap's API may not function correctly due to issues regarding synchronization between the key to Github's repository.**
+**MUST DOWNLOAD REPOSITORY CONTENTS IN ORDER TO LAUNCH PROGRAM**
+
 ## Inspiration
 Everyone is bound to run into the same problem: you can't decide what to wear! Plus, the weather is constantly changing, meaning you can never comfortably weather the same outfits all year round. Our team seeks to change that by creating an application that inspires people to look into new styles based on the local weather.
 
@@ -20,7 +23,5 @@ Going into this hackathon, all of our team members had only had experience with 
 
 ## What's next for Working Weather App
 Our next step to improve the WeatherWear is to get the images through a browsing tool. We would use a separate tool in order to browse sites like Pinterest and gather a greater range of content. Theoretically, the user would be able to continuously refresh the page for their next piece of outfit inspiration.
-
-**Notice: OpenWeatherMap's API may not function correctly due to issues regarding synchronization between the key to Github's repository.**
 
 Developed by: Edwin Ngui, Davit Najaryan, Farhaan Ali
