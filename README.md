@@ -1,6 +1,7 @@
 # Working-Weather-App
 
 [WeatherWear Devpost](https://devpost.com/software/working-weather-app)
+
 **Notice: OpenWeatherMap's API may not function correctly due to issues regarding synchronization between the key to Github's repository.**
 **MUST DOWNLOAD REPOSITORY CONTENTS IN ORDER TO LAUNCH PROGRAM**
 
